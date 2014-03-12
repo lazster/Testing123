@@ -1,5 +1,5 @@
 Testing123
 ==========
-today is wednesday
+today is thursday
 
 test
